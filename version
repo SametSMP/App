@@ -2,7 +2,5 @@
   "latestVersion": "1.1",
   "releaseNotes": "1.1 - Google silindi çünkü bir hata oluşturuyordu, yerine yeni bir şey eklendi.",
   "url": "https://raw.githubusercontent.com/SametSMP/App/main/App/releases/sametsmp_release.apk",
-  "isMandatory": true,
-  "chatLinkToast": "t.me/SametSMPChat",
-  "welcomeToast": "Welcome ♥️"
+  "isMandatory": true
 }
