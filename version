@@ -1,6 +1,6 @@
 {
-  "latestVersion": "1.2",
-  "releaseNotes": "1.2 - Fix bugs \nGoogle silindi çünkü bir hata oluşturuyordu, yerine yeni bir şey eklendi.",
+  "latestVersion": "1.0",
+  "releaseNotes": "1.0 - App Reseti.\nbug olduğu için",
   "url": "https://raw.githubusercontent.com/SametSMP/App/main/App/releases/sametsmp_release.apk",
   "isMandatory": true
 }
