@@ -1,0 +1,5 @@
+{
+  "lastUpdated": "2025-12-07",
+  "notesTR": "Özellikler / Düzeltmeler:\n- Uygulamanın hemen kapanması düzeltildi.\n- Android 11+ desteği düzeltildi.\n- Dil seçeneği eklendi.\n- Daha fazla çökme önlendi.",
+  "notesEN": "Features / Fixes:\n- Fixed app crashing immediately.\n- Fixed unsupported Android 11+ versions.\n- Added language selection.\n- Prevented further crashes."
+}
